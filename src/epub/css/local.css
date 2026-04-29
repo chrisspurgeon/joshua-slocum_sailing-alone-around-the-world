@@ -91,3 +91,16 @@ figure.full-page{
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+#chapter-11 blockquote{
+	text-align: center;
+}
+
+#chapter-11 blockquote b{
+	font-weight: bold;
+}
+
+#chapter-11 blockquote p{
+	padding: 1em;
+	text-indent: 0;
+}
