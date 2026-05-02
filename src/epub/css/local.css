@@ -112,3 +112,24 @@ blockquote [epub|type~="z3998:salutation"]{
 blockquote [epub|type~="z3998:valediction"]{
 	text-align: right;
 }
+
+#chapter-15 table{
+	border-collapse: collapse;
+	margin: 1em;
+}
+
+#chapter-15 table td.number {
+	text-align: right;
+}
+
+#chapter-15 table td.total {
+	border-top: 1px solid black;
+}
+
+#chapter-15 table td:first-of-type{
+	padding: .25em;
+}
+
+#chapter-15 table td:last-of-type{
+	text-align: center;
+}
