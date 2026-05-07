@@ -7,10 +7,4 @@
 			<reason>Empty table cells OK.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-20.xhtml">
-		<ignore code="t-030">
-			<line>16</line>
-			<reason>Literal alphabetic translation of ship-to-ship signal flags.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
