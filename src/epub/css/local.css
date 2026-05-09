@@ -64,7 +64,7 @@ figcaption{
 	text-align: center;
 }
 
-figcaption i {
+figcaption i{
 	font-style: normal;
 }
 
@@ -72,6 +72,7 @@ figure.full-page{
 	break-after: page;
 	break-before: page;
 }
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p{
 	text-align: initial;
@@ -114,11 +115,11 @@ blockquote [epub|type~="z3998:valediction"]{
 	margin: 1em;
 }
 
-#chapter-15 table td.number {
+#chapter-15 table td.number{
 	text-align: right;
 }
 
-#chapter-15 table td.total {
+#chapter-15 table td.total{
 	border-top: 1px solid black;
 }
 
