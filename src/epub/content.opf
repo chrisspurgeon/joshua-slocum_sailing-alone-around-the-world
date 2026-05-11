@@ -62,6 +62,10 @@
 		<dc:contributor id="illustrator-2">George Varian</dc:contributor>
 		<meta property="file-as" refines="#illustrator-2">Varian, George</meta>
 		<meta property="role" refines="#illustrator-2" scheme="marc:relators">ill</meta>
+		<dc:contributor id="illustrator-3">C. D. Mower</dc:contributor>
+		<meta property="file-as" refines="#illustrator-3">Mower, C. D.</meta>
+		<meta property="role" refines="#illustrator-3" scheme="marc:relators">ill</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator-3">https://en.wikipedia.org/wiki/Charles_Mower</meta>
 		<dc:contributor id="artist">Gustave Courbet</dc:contributor>
 		<meta property="file-as" refines="#artist">Courbet, Gustave</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gustave_Courbet</meta>
