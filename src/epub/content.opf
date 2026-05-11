@@ -37,9 +37,9 @@
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">The first person account of the first solo sailing voyage around the world.</dc:description>
+		<dc:description id="description">An account of the first solo sailing voyage around the world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joshua-slocum"&gt;Joshua Slocum’s&lt;/a&gt; first solo circumnavigation of the earth in his 36-foot sailboat &lt;i&gt;Spray&lt;/i&gt; is still considered one of the greatest nautical feats of all time. And this, his first-person account of the voyage, is one of the all-time classics of adventure literature. During his three-year, 46,000-mile journey, Slocum faces trials you might expect—such as storms, monster waves, dangerous shoals, and powerful currents. But he also has to contend with everything from pirates armed with bows and arrows to a stowaway goat to villagers who are convinced he is the Antichrist.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joshua-slocum"&gt;Joshua Slocum’s&lt;/a&gt; first solo circumnavigation of the earth in his thirty-six foot sailboat &lt;i&gt;Spray&lt;/i&gt; is still considered one of the greatest nautical feats of all time. And this, his first-person account of the voyage, is one of the all-time classics of adventure literature. During his three-year, fourty-six thousand mile journey, Slocum faces trials you might expect—such as storms, monster waves, dangerous shoals, and powerful currents. But he also has to contend with everything from pirates armed with bows and arrows to a stowaway goat to villagers who are convinced he is the Antichrist.&lt;/p&gt;
 			&lt;p&gt;Slocum’s prose wonderfully combines details of his day-to-day life at sea with meditations on the beauties and dangers of the ocean, all with a touch of a 19th-century New Englander’s sense of humor. It’s a tale that has charmed sailors and landlubbers alike for more than a century.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -67,15 +67,18 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gustave_Courbet</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80057228</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">D Garcia</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Garcia, D</meta>
+		<dc:contributor id="transcriber-1">D. Garcia</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Garcia, D.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Charles Franks HTML version produced by Chuck Greif</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_3_SORT</meta>
+		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="markup-1">Chuck Greif</dc:contributor>
+		<meta property="file-as" refines="#markup-1">Greif, Chuck</meta>
+		<meta property="role" refines="#markup-1" scheme="marc:relators">mrk</meta>
 		<dc:contributor id="producer-1">Chris Spurgeon</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Spurgeon, Chris</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
